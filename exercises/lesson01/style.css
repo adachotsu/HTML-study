@@ -1,0 +1,16 @@
+
+h1{
+    color: orange;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+
+p{
+    color:black;
+    font-size: 21px;
+}
+
+body{
+    background-color: lightgrey;
+}
